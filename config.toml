@@ -1,11 +1,8 @@
-title = "My cool new Blog"
-baseURL = "https://example.com/"
+title = "Haeckse Sarah"
+baseURL = "https://haecksesarah.de/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 theme = "github.com/Lednerb/bilberry-hugo-theme/v4"
-
-# Options 2 and 3: cloning/copying the theme files
-# theme = "bilberry-hugo-theme/v4"
 
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
@@ -29,8 +26,8 @@ disqusShortname = ""
 
   # Description and meta data for the search engines
   author = "Sarah Pfeiffer"
-  description = "Bilberry Premium Theme for Hugo."
-  keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,syntax highlighting,premium,shortcuts"
+  description = ""
+  keywords = ""
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -58,13 +55,13 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = ""
 
     # if you want to use libravatar or gravatar for the header image
-    avatarEmail = "code@lednerb.de"
+    avatarEmail = "hello@haecksesarah.de"
 
     # set an path to the image file you want to use | overwrites avatar by email
-    customImage = ""
+    customImage = "assets/images/avatar.jpg"
 
     # define the icon you want to use for the overlay for the customImage or avatar.
     overlayIcon = "fa-home"
@@ -131,10 +128,10 @@ disqusShortname = ""
     archiveDateGrouping = "2006-01"
 
     # credits line configuration
-    copyrightBy = "by Lednerb"
+    copyrightBy = "by Sarah Pfeiffer"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2017"
-    copyrightUrl = "https://github.com/Lednerb"
+    copyrightYearOverride = "2023"
+    copyrightUrl = "https://haecksesarah.de"
     creditsText = "Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
