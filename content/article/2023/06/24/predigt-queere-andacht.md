@@ -9,7 +9,7 @@ noSummary: true
 **CN Gewalt, Suizid**
 
 „Ihre Tochter hat heute wieder ein Kind geschlagen.“ Gut das höre ich mindestens ein mal die Woche, wenn ich meine Tochter aus der Kita abhole. Sie ist 2, da ist die Sprache noch nicht so ausgereizt, das man Konflikte mit Worten lösen kann. Wir gehen also nach Hause, setzen uns in Ruhe hin und ich frage sie, was passiert ist. „Der Erik hat mir das Feuerwehrauto weggenommen und ich wollte es wieder haben. Da habe ich ihn dann gehauen.“ „Kind, das hast du sehr gut gemacht. Zeig den Jungs, das man mit Mädchen nicht so umgehen kann. Ich bin stolz auf dich.“, denke ich mir, sage es aber nicht.
-
+<!--more-->
 Die Gruppe im Kindergarten ist ein Beispiel, wie unsere Gesellschaft auch aussehen könnte. Es herrscht das Recht des Stärkeren. Die schwachen Kinder werden unterdrückt und müssen mit dem spielen, was niemand anderes haben möchte. Aber immer in der Gefahr, das ein anderes Kind es sich anders überlegt und jetzt genau dieses Spielzeug haben will und es kommt wieder zu einem Konflikt, der Notfalls auch mit Gewalt gelöst wird, wenn das schwächere Kind nicht nachgibt. Will ich in so einer Gesellschaft leben? Haben wir den Teil unserer Geschichte nicht schon längst überwunden?
 
 Was mache ich jetzt mit meiner Tochter? In der Gruppe, in der sie sich da in der Kita befindet, war ihr Verhalten ja eigentlich angemessen. Es würde aber eine Gesellschaftsform manifestieren, in der ich nicht leben möchte. Also erkläre ich ihr das mit der Diplomatie „Hast du versucht mit Erik zu reden? Hast du ihm gesagt, das du das blöd findest? Ihr könnt doch teilen. Erst spielt er ein paar Minuten mit dem Auto und dann darfst du es haben.“ Ich denke, das ist etwas, das die meisten Eltern so sagen würden. Oder?

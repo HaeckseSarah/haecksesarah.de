@@ -10,7 +10,7 @@ noSummary: true
 Die Predigt gibt es [ab Minute: 1:58:40](https://hoer-doch-mal-zu.de/hdmz188-am-chat-festkleben/?t=1%3A58%3A40) in der 188 Ausgabe vom [Hör doch mal zu Podcast](https://hoer-doch-mal-zu.de/hdmz188-am-chat-festkleben) zum Hören.
 
 ## Embrace who you are
-
+<!--more-->
 Als ich vor ein paar Wochen das Thema gesehen hatte, kam mir sehr schnell der Gedanke, dass ich dazu viel Beitragen kann und auch möchte.
 
 Schnell kamen in mir dann aber wieder die Selbstzweifel auf. Ich hatte Gedanken, wie:

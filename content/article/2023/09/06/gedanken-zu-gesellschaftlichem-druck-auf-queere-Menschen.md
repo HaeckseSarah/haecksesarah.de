@@ -9,8 +9,8 @@ noSummary: true
 
 **CN Gewalt, Detransition, Kink**
 
-Ich denke gerade offen über Detransition nach, weil ich nicht weiß, wie lange ich dem sozialen Druck noch standhalten kann. Aus meiner Arbeit heraus weiß ich, das es viele trans Personen gibt, denen es so geht. Häufig ist sozialer Druck die Ursache, die Entscheidung für eine Detransition zu treffen. Ich möchte meine Gedanken hier teilen, um dir zu zeigen, das du nicht alleine bist. Vielleicht helfen dir meine Ansätze, Kraft zu finden. Das sind alles sehr hohe Ziele und Anforderungen, die ich mir hier stelle. Ob es wirklich funktioniert und ob ich es schaffe, wird die Zukunft zeigen müssem.
-
+Ich denke gerade offen über Detransition nach, weil ich nicht weiß, wie lange ich dem sozialen Druck noch standhalten kann. Aus meiner Arbeit heraus weiß ich, das es viele trans Personen gibt, denen es so geht. Häufig ist sozialer Druck die Ursache, die Entscheidung für eine Detransition zu treffen. Ich möchte meine Gedanken hier teilen, um dir zu zeigen, das du nicht alleine bist. Vielleicht helfen dir meine Ansätze, Kraft zu finden. Das sind alles sehr hohe Ziele und Anforderungen, die ich mir hier stelle. Ob es wirklich funktioniert und ob ich es schaffe, wird die Zukunft zeigen müssen.
+<!--more-->
 Und um es noch mal klar zu sagen. Detransition ist eine valide Option, egal aus welchen Beweggründen. Wenn du gerade in einer ähnlichen Situation bist, oder vielleicht die Entscheidung für dich schon getroffen hast und Unterstützung auf diesem Weg benötigst, schreibe mich gerne an.
 
 Detransition würde für mich bedeuten, dass ich mich wieder den gesellschaftlichen Normen anpasse. Es verheißt mir, im Alltag meinen Frieden mit der Umgebung zu haben, mich psychisch wieder zu erholen, wieder arbeiten zu gehen und dadurch finanzielle Sicherheit. Für mich eine ziemlich große Versuchung, weil es all das Verspricht, was mir momentan fehlt. Dafür muss ich nur meine Seele – die Sarah in mir – verkaufen. „… und führe uns nicht in Versuchung, sondern erlösen uns von dem Bösen“ – ziemlich passend, oder?
