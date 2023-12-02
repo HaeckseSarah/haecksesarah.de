@@ -117,8 +117,8 @@ disqusShortname = ""
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://twitter.com/TheRealLednerb", icon = "fab fa-twitter", rel = "me" },
-      { link = "https://github.com/Lednerb", icon = "fab fa-github" },
+      { link = "https://www.instagram.com/haecksesarah/", icon = "fab fa-instagram", rel = "me" },
+      { link = "https://chaos.social/@HaeckseSarah", icon = "fab fa-mastodon" },
     ]
 
     # show an archive link in the footer
