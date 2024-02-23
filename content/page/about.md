@@ -22,3 +22,12 @@ Der Name „Haeckse Sarah“ hat mehrere Bedeutungen, die ich sehr mag. Der Sara
 Warum nun Haeckse in dieser komischen Schreibweise. Zum Einen mag ich die Bezeichnung als Hexe in einem christlichen Rahmen, da ich als trans Person für einige Menschen nicht in die Kirche passe und in der Vergangenheit wahrscheinlich als Hexe verbrannt worden wäre.
 
 Zum Anderen ist das Wort Haeckse eine Variante um weibliche Hackerinnen zu bezeichnen. Da ich ursprünglich in der IT und auch im Bereich IT-Sicherheit gearbeitet habe, mag ich die Bezeichung als Hacker, bzw. korrekt gegendert Haeckse. 
+
+## Referenzen
+
+* [Tagesspiegel - 03.04.2023](https://leute.tagesspiegel.de/treptow-koepenick/unter-nachbarn/2023/04/03/269249/)
+* [Rundschau Stephanus Stiftung - September 2023](https://www.stephanus.org/rundschau/die-rundschau-september/startseite/artikel/detail/queeres-leben-sichtbar-im-kiez/)
+
+
+## Auszeichungen
+* [Stern des Monats April 2023](https://sternenfischer.org/stern-des-monats/april-2023/)
