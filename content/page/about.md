@@ -1,10 +1,11 @@
 ---
 title: "Über mich"
-date: 2023-1105-25T17:33:45+01:00
+date: 2023-05-25T17:33:45+01:00
 menu: topnav
 weight: 10
 readingTime: 0
 showDate: false
+url: /about
 ---
 
 # Über mich
